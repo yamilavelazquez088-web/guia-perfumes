@@ -1,0 +1,77 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "floral-1",
+      "description": "Elegant perfume bottle with floral accents",
+      "imageUrl": "https://picsum.photos/seed/101/400/500",
+      "imageHint": "perfume bottle"
+    },
+    {
+      "id": "floral-2",
+      "description": "Perfume bottle surrounded by pink flowers",
+      "imageUrl": "https://picsum.photos/seed/102/400/500",
+      "imageHint": "perfume flowers"
+    },
+    {
+      "id": "oriental-1",
+      "description": "Luxurious perfume bottle with a golden cap",
+      "imageUrl": "https://picsum.photos/seed/103/400/500",
+      "imageHint": "luxury perfume"
+    },
+    {
+      "id": "oriental-2",
+      "description": "Dark, mysterious perfume bottle",
+      "imageUrl": "https://picsum.photos/seed/104/400/500",
+      "imageHint": "dark perfume"
+    },
+    {
+      "id": "woody-1",
+      "description": "Perfume bottle on a wooden surface",
+      "imageUrl": "https://picsum.photos/seed/105/400/500",
+      "imageHint": "perfume wood"
+    },
+    {
+      "id": "woody-2",
+      "description": "Earthy-toned perfume bottle",
+      "imageUrl": "https://picsum.photos/seed/106/400/500",
+      "imageHint": "perfume bottle"
+    },
+    {
+      "id": "fresh-1",
+      "description": "Clean, minimalist perfume bottle",
+      "imageUrl": "https://picsum.photos/seed/107/400/500",
+      "imageHint": "minimalist perfume"
+    },
+    {
+      "id": "fresh-2",
+      "description": "Perfume bottle with water droplets",
+      "imageUrl": "https://picsum.photos/seed/108/400/500",
+      "imageHint": "perfume water"
+    },
+    {
+      "id": "fruity-1",
+      "description": "Brightly colored perfume bottle",
+      "imageUrl": "https://picsum.photos/seed/109/400/500",
+      "imageHint": "colorful perfume"
+    },
+    {
+      "id": "fruity-2",
+      "description": "Perfume bottle next to citrus fruits",
+      "imageUrl": "https://picsum.photos/seed/110/400/500",
+      "imageHint": "perfume fruit"
+    },
+    {
+      "id": "spicy-1",
+      "description": "Warm, amber-colored perfume bottle",
+      "imageUrl": "https://picsum.photos/seed/111/400/500",
+      "imageHint": "amber perfume"
+    },
+    {
+      "id": "spicy-2",
+      "description": "Perfume bottle with spices in the background",
+      "imageUrl": "https://picsum.photos/seed/112/400/500",
+      "imageHint": "perfume spice"
+    }
+  ]
+}
